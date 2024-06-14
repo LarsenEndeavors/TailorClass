@@ -1,0 +1,24 @@
+UUID = 54298f33-55d7-4bb7-b9a2-8316919d1a04
+
+
+----
+ICONS
+----
+
+    <attribute id="Height" type="int32" value="128"/> the height of each icon in pixels
+    <attribute id="Width" type="int32" value="128"/> the widgth of each icon in pixels
+</node>
+<node id="TextureAtlasPath">
+    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Magus.dds"/> the file path to the .DDS image
+    <attribute id="UUID" type="FixedString" value="be9061f6-648b-4234-a17e-af38531af55f"/> the UUID inside the _merged.lsx file for this image
+</node>
+<node id="TextureAtlasTextureSize">
+    <attribute id="Height" type="int32" value="1280"/> the height of the .DDS image
+    <attribute id="Width" type="int32" value="1280"/> the width of the .DDS image
+
+
+-------
+ TO-DO
+-------
+
+[ ] - ActionResourceDefinition for any resource (nodes)

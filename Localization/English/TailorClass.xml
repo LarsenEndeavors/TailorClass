@@ -1,0 +1,9 @@
+﻿This is your localization file, for contentUID you can use any 37 Digit Hex code. and after you are done with it, use LSLib's localization tab to convert this file into a .loca file in the same folder.
+^ delet those text before converting
+
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3cd38c90gcfd0g46dbga4fcg8e236b752bcc" version="1">"Tailors manipulate the threads of the Weave to create and unmake powerful magical effects. With their ability to shut down hostile magic and enhance their allies, Tailors are invaluable in any adventuring party. They are masters of manipulation, both of magic and of their environment, making them versatile operatives and detectives."</content>
+	<content contentuid="hbd485658geb58g4ddeg9198gcc73c8a212cc" version="1">Tailor</content>
+	<content contentuid="" version="1"></content>
+</contentList>

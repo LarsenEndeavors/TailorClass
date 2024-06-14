@@ -1,0 +1,32 @@
+new equipment "EQP_CC_Tailor"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Rapier"  <!-- Rapier for the tailor -->
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"  <!-- Healing potion -->
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"  <!-- Another healing potion -->
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"  <!-- Leather boots -->
+add equipmentgroup
+add equipment entry "ARM_Leather_Armor"  <!-- Leather armor -->
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Invisibility"  <!-- Scroll of Invisibility -->
+add equipmentgroup
+add equipment entry "OBJ_Potion_Of_ChooseYourStats"  <!-- Placeholder for custom potion -->
+add equipmentgroup
+add equipment entry "OBJ_Potion_Of_ChooseYourHomeBrew"  <!-- Placeholder for custom potion -->
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"  <!-- Camp body armor -->
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"  <!-- Camp shoes -->
+add equipmentgroup
+add equipment entry "OBJ_Keychain"  <!-- Keychain -->
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"  <!-- Alchemy pouch -->
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"  <!-- Backpack with camp supplies -->
+add equipmentgroup
+add equipment entry "TOOL_Weaver"  <!-- Weaver's Tools -->
+add equipmentgroup
+add equipment entry "OBJ_Adventurers_Pack"  <!-- Adventurer's Pack -->
